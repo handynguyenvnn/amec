@@ -1,0 +1,12 @@
+.col-sm-9{
+    position: relative;
+
+}
+.file-caption-main {
+    width: 91%;
+}
+#adv_delete {
+    position: absolute;
+    right: 15px;
+    bottom: 0px;
+}

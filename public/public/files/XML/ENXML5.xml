@@ -1,0 +1,61 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<共通 lang="en">
+    <グレード1>
+        <グレード名>Grade TEST XML 7</グレード名>
+        <マイページ背景>https://s3-ap-northeast-1.amazonaws.com/amec2017/image/APSx7D4zRZJUVVxphpekCQgQ.png</マイページ背景>
+        <合格点正答率>22</合格点正答率>
+        <合格メッセージ>Grade TEST XML</合格メッセージ>
+        <不合格メッセージ>Grade TEST XML</不合格メッセージ>
+        <正解メッセージ>Grade TEST XML</正解メッセージ>
+        <不正解メッセージ>Grade TEST XML</不正解メッセージ>
+        <バージョン1>
+            <バージョン名>Grade TEST XML</バージョン名>
+            <チャプター6>
+                <チャプター名>Grade TEST XML</チャプター名>
+                <合格点正答率>10</合格点正答率>
+                <出題形式>1</出題形式>
+                <選択肢表示形式>1</選択肢表示形式>
+                <コマ1>
+                    <画像>https://s3-ap-northeast-1.amazonaws.com/amec2017/image/a3LM5ZBsRbrrcjGphpUaPzgg.jpeg</画像>
+                    <動画>
+                        https://s3-ap-northeast-1.amazonaws.com/amec2017/video/bx21E86bjNoWorGphp4S2WOC.mp4
+                    </動画>
+                    <コマ名>ボディ</コマ名>
+                    <音楽>
+                    http://blog.mzsky.cc/data/attachment/music/file/200804/9f85aa2f376391bcc3e080ac914a1ab6.mp3
+                    </音楽>
+                    <説明>ボディの説明</説明>
+                </コマ1>
+                <合格メッセージ>Grade TEST XML</合格メッセージ>
+                <不合格メッセージ>Grade TEST XML</不合格メッセージ>
+                <正解メッセージ>Grade TEST XML</正解メッセージ>
+                <不正解メッセージ>Grade TEST XML</不正解メッセージ>
+                <小テスト問題1>
+                    <タイトル>全体</タイトル>
+                    <問題形式>0</問題形式>
+                    <配点>100</配点>
+                    <問題文>全体</問題文>
+                    <画像>https://s3-ap-northeast-1.amazonaws.com/amec2017/image/a3LM5ZBsRbrrcjGphpUaPzgg.jpeg</画像>
+                    <動画>https://s3-ap-northeast-1.amazonaws.com/amec2017/video/bx21E86bjNoWorGphp4S2WOC.mp4</動画>
+                    <選択肢1>
+                        <選択肢説明>全体1</選択肢説明>
+                        <画像>https://s3-ap-northeast-1.amazonaws.com/amec2017/image/FVdkuP3sfRAsn7Cphp1QlBrh.png</画像>
+                    </選択肢1>
+                    <選択肢2>
+                        <選択肢説明>全体2</選択肢説明>
+                        <画像>https://s3-ap-northeast-1.amazonaws.com/amec2017/image/FVdkuP3sfRAsn7Cphp1QlBrh.png</画像>
+                    </選択肢2>
+                    <選択肢3>
+                        <選択肢説明>全体3</選択肢説明>
+                        <画像>https://s3-ap-northeast-1.amazonaws.com/amec2017/image/FVdkuP3sfRAsn7Cphp1QlBrh.png</画像>
+                    </選択肢3>
+                    <選択肢4>
+                        <選択肢説明>全体4</選択肢説明>
+                        <画像>https://s3-ap-northeast-1.amazonaws.com/amec2017/image/FVdkuP3sfRAsn7Cphp1QlBrh.png</画像>
+                    </選択肢4>
+                </小テスト問題1>
+            </チャプター6>
+        </バージョン1>
+    </グレード1>
+</共通>

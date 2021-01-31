@@ -1,0 +1,31 @@
+.header-table {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#btn-create-new {
+    float: right;
+    margin-right: 65%;
+}
+.nav.nav-tabs li {
+    width:50%;
+    text-align: center;
+}
+#back-btn {
+    margin-top: 20px;
+}
+#goukaku > label, #fugoukaku > label, #seikai > label, #fuseikai > label {
+    padding-left: 15px;
+    font-size: 16px;
+}
+
+#smallTestSetting {
+    margin-top: 20px;
+}
+#smallTestSetting .box{
+    border-top: 1px solid #d2d6de;
+}
+
+.box-footer-margin {
+    margin-top: 10px;
+}

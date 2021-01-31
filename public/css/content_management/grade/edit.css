@@ -1,0 +1,14 @@
+.header-box{
+    padding: 10px 0px;
+}
+.header-box span{
+    font-size: 16px;
+}
+.dataTables_paginate{
+    text-align: center !important;
+    padding: 10px 0px;
+}
+
+div.grade-edit-footer {
+    border-top: 0px;
+}

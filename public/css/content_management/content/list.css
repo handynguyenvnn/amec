@@ -1,0 +1,16 @@
+table.table tr td{
+    vertical-align: middle;
+}
+.move{
+    cursor: pointer;
+    color: #cccccc;
+    text-align: center;
+}
+.move:hover{
+    color: #444444;
+}
+
+label.sort-tip {
+    display:block;
+    font-weight: 400;
+}

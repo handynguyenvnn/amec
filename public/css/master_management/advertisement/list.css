@@ -1,0 +1,11 @@
+.error {
+    color:red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.with-border {
+    border-bottom: 1px solid #f4f4f4;
+}
+.btn-back {
+    padding: 7px 30px;
+}

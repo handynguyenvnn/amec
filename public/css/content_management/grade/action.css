@@ -1,0 +1,109 @@
+.col-sm-9{
+    position: relative;
+
+}
+.file-caption-main {
+    width: 91%;
+}
+.adv_delete {
+    position: absolute;
+    right: 15px;
+    bottom: 0px;
+}
+@media only screen and (max-width:2000px){
+    /* for sumo sized (mac) screens */
+    .col-sm-9{
+        position: relative;
+
+    }
+    .file-caption-main {
+        width: 90%;
+    }
+    .adv_delete {
+        position: absolute;
+        right: 15px;
+        bottom: 0px;
+    }
+}
+@media only screen and (max-width:1440px){
+    /* styles for browsers larger than 1440px; */
+    .col-sm-9{
+        position: relative;
+
+    }
+    .file-caption-main {
+        width: 82%;
+    }
+    .adv_delete {
+        position: absolute;
+        right: 15px;
+        bottom: 0px;
+    }
+}
+@media only screen and (max-width:1200px){
+    /* styles for browsers larger than 1440px; */
+    .col-sm-9{
+        position: relative;
+
+    }
+    .file-caption-main {
+        width: 80%;
+    }
+    .adv_delete {
+        position: absolute;
+        right: 15px;
+        bottom: 0px;
+    }
+}
+@media only screen and (max-width:960px){
+    .col-sm-9{
+        position: relative;
+
+    }
+    .file-caption-main {
+        width: 66%;
+    }
+    .adv_delete {
+        position: absolute;
+        right: 15px;
+        bottom: 0px;
+    }
+}
+
+@media only screen and (max-width:768px){
+    .col-sm-9{
+        position: relative;
+
+    }
+    .file-caption-main {
+        width: 86%;
+    }
+    .adv_delete {
+        position: absolute;
+        right: 15px;
+        bottom: 0px;
+    }
+}
+@media only screen and (max-width:480px){
+    .col-sm-9{
+        position: relative;
+
+    }
+    .file-caption-main {
+        width: 72%;
+    }
+    .adv_delete {
+        position: absolute;
+        right: 15px;
+        bottom: 0px;
+    }
+}
+
+/* different techniques for iPad screening */
+@media only screen and (min-width: 481px) and (max-width: 1024px) and (orientation:portrait) {
+    /* For portrait layouts only */
+}
+
+@media only screen and (min-width: 481px) and (max-width: 1024px) and (orientation:landscape) {
+    /* For landscape layouts only */
+}

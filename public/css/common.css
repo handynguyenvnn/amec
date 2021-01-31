@@ -1,0 +1,130 @@
+body {
+    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "Lucida Grande", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif !important;
+}
+
+/*----------- Table list page -----------*/
+
+table.dataTable thead .sorting_asc:after {
+    content: "\f0de" !important;
+}
+
+table.dataTable thead .sorting_desc:after {
+    content: "\f0dd" !important;
+}
+
+table.dataTable thead .sorting:after {
+    opacity: 0.2;
+    content: "\f0dc" !important;
+}
+
+table.dataTable thead .sorting:after, table.dataTable thead .sorting_asc:after, table.dataTable thead .sorting_desc:after {
+    font: normal normal normal 14px/1 FontAwesome !important;
+    font-size: 1.5rem !important;
+    float: right;
+}
+
+table.dataTable {
+    margin-top: 15px;
+}
+
+table.dataTable th.sorting_desc, table.dataTable th.sorting_asc, table.dataTable th.sorting {
+    cursor: pointer;
+}
+
+tr.stop-flag-on {
+    background: #999999;
+}
+
+tr td {
+    word-break: break-all;
+}
+
+tr th {
+    white-space: nowrap;
+}
+
+tfoot {
+    background-color: #FCFCFC;
+}
+
+tfoot span.page-info {
+    display: block;
+    margin-top: 25px;
+}
+
+#data-table_length label {
+    white-space: nowrap;
+}
+
+#data-table_length select {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+/*Tabs*/
+.tab-pane, .tool-bar-panel {
+    display: none;
+}
+.tabs-left, .tabs-right {
+    border-bottom: none;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.tabs-left {
+    border-right: 1px solid #f4f4f4;
+}
+.tabs-right {
+    margin-top: -21px;
+    margin-bottom: -10px;
+    border-left: 1px solid #f4f4f4;
+}
+.tabs-left>li, .tabs-right>li {
+    float: none;
+    margin-bottom: 2px;
+}
+.tabs-left>li {
+    margin-right: -1px;
+}
+.tabs-right>li {
+    margin-left: -1px;
+}
+.tabs-left>li.active>a,
+.tabs-left>li.active>a:hover,
+.tabs-left>li.active>a:focus {
+    border-bottom-color: #f4f4f4;;
+    border-right-color: transparent;
+}
+
+.tabs-right>li.active>a,
+.tabs-right>li.active>a:hover,
+.tabs-right>li.active>a:focus {
+    border-bottom: 1px solid #f4f4f4;;
+    border-left-color: transparent;
+}
+.tabs-left>li>a {
+    border-radius: 4px 0 0 4px;
+    margin-right: 0;
+    display:block;
+}
+.tabs-right>li>a {
+    border-radius: 0 4px 4px 0;
+    margin-right: 0;
+}
+.datepicker .table {
+    margin-bottom: -10px;
+}
+.datepicker .table > tbody > tr > td,
+.datepicker .table > tbody > tr > th,
+.datepicker .table > tfoot > tr > td,
+.datepicker .table > tfoot > tr > th,
+.datepicker .table > thead > tr > td,
+.datepicker .table > thead > tr > th {
+    padding: 8px !important;
+    text-align: center;
+    cursor: pointer;
+}
+.datepicker .table > tbody > tr > td.old,
+.datepicker .table > tbody > tr > td.new{
+    color: #C1C1C1;
+}
+

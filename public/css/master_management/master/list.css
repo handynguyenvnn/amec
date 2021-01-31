@@ -1,0 +1,64 @@
+.table {
+    margin-bottom: 0;
+}
+.block {
+    padding: 0;
+    border-bottom: none;
+    padding-top: 20px;
+}
+.btn-one {
+    margin-right: 20px;
+}
+.text-one {
+    letter-spacing: 1.3px;
+}
+.btn-update {
+    padding: 7px 30px;
+}
+.block-one {
+    text-align: center;
+}
+.modal-video {
+    padding: 40px 100px 40px 40px;
+}
+.modal-video table tr td {
+    width:200px;
+}
+.modal-video table tr td select {
+    width:200px;
+}
+.modal-video table tr.highlighted {
+    border-top: 25px solid;
+    border-color: transparent;
+}
+.modal-video table tr.add-video {
+    border-bottom: 25px solid;
+    border-color: transparent;
+}
+.modal-video .content-video {
+    border: 1px solid #ccc;
+}
+.modal-video .content-video .video {
+    border: 1px solid #ccc;
+    height:200px;
+    width: 350px;
+}
+.modal-video .content-video .brow-video {
+    border: 1px solid #ccc;
+}
+.modal-video .content-video .brow-video .border-left {
+    border: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+    margin-bottom: 0;
+}
+.modal-video .content-video .brow-video #upload-video {
+    opacity: 0;
+    position: absolute;
+    z-index: -1;
+}
+@media screen and (max-width: 750px) {
+    .btn-item {
+        margin-top:5px;
+    }
+}

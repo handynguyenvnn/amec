@@ -1,0 +1,17 @@
+.card-baai {
+    border: 1px solid #d2d6de;
+    overflow: hidden;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-bottom: 12px;
+}
+.margin-card {
+    margin-bottom: 10px;
+}
+
+.save-btn {
+    margin-top: 20px;
+}
+.back-btn {
+    margin-top: 20px;
+}

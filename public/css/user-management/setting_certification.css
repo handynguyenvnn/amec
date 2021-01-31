@@ -1,0 +1,28 @@
+.bg-mobile {
+    width: 400px;
+    height: 600px;
+    margin: auto;
+    background-color: #000000;
+    border-radius: 50px;
+}
+.bg-mobile .main-content-mobile{
+    margin: 50px 25px;
+    float: left;
+    width: calc(100% - 50px);
+    height: calc(100% - 100px);
+    background-color: #f5f5d1;
+}
+.bg-mobile .main-content-mobile .content-mobile{
+}
+.col-sm-9{
+    position: relative;
+
+}
+.file-caption-main {
+    width: 90%;
+}
+#adv_delete {
+    position: absolute;
+    left: 315px;
+    bottom: 0px;
+}
